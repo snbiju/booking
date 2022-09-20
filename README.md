@@ -1,2 +1,2 @@
 # java-test-booking
-BoardRoom Booking
+Booking
